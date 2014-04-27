@@ -61,7 +61,7 @@ namespace GeminiScanner
         
         public void parseMessage(String incomingData)
         {
-            if (!incomingData.StartsWith(TOKEN))
+            if (incomingData == null || !incomingData.StartsWith(TOKEN))
             {
                 // No logging/error this is just a regular copy we don't care about.
                 return;
