@@ -1,0 +1,11 @@
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\obj\Debug\ScanSharp.ScanSharp.resources
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\obj\Debug\ScanSharp.Properties.Resources.resources
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\obj\Debug\ScanSharp.csproj.GenerateResource.Cache
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\obj\Debug\ScanSharp.csprojResolveAssemblyReference.cache
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\bin\Debug\ScanSharp.exe.config
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\bin\Debug\ScanSharp.exe
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\bin\Debug\ScanSharp.pdb
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\obj\Debug\ScanSharp.exe
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\obj\Debug\ScanSharp.pdb
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\bin\Debug\ScanSharp.exe.CodeAnalysisLog.xml
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\bin\Debug\ScanSharp.exe.lastcodeanalysissucceeded

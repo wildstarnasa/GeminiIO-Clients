@@ -1,0 +1,9 @@
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\bin\Debug\SharpScanbot.exe.config
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\bin\Debug\SharpScanbot.exe
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\bin\Debug\SharpScanbot.pdb
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\obj\Debug\SharpScanbot.csprojResolveAssemblyReference.cache
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\obj\Debug\SharpScanbot.Form1.resources
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\obj\Debug\SharpScanbot.Properties.Resources.resources
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\obj\Debug\SharpScanbot.csproj.GenerateResource.Cache
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\obj\Debug\SharpScanbot.exe
+C:\Users\pakish\Documents\Visual Studio 2012\Projects\SharpScanbot\SharpScanbot\obj\Debug\SharpScanbot.pdb

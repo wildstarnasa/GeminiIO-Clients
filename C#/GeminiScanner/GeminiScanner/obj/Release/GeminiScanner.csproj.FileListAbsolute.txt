@@ -1,0 +1,18 @@
+C:\Users\Dranor.ELEMENTAL\Documents\Visual Studio 2012\Projects\GeminiScanner\GeminiScanner\bin\Release\GeminiScanner.exe.config
+C:\Users\Dranor.ELEMENTAL\Documents\Visual Studio 2012\Projects\GeminiScanner\GeminiScanner\bin\Release\GeminiScanner.exe
+C:\Users\Dranor.ELEMENTAL\Documents\Visual Studio 2012\Projects\GeminiScanner\GeminiScanner\bin\Release\GeminiScanner.pdb
+C:\Users\Dranor.ELEMENTAL\Documents\Visual Studio 2012\Projects\GeminiScanner\GeminiScanner\obj\Release\GeminiScanner.GeminiScanner.resources
+C:\Users\Dranor.ELEMENTAL\Documents\Visual Studio 2012\Projects\GeminiScanner\GeminiScanner\obj\Release\GeminiScanner.Properties.Resources.resources
+C:\Users\Dranor.ELEMENTAL\Documents\Visual Studio 2012\Projects\GeminiScanner\GeminiScanner\obj\Release\GeminiScanner.csproj.GenerateResource.Cache
+C:\Users\Dranor.ELEMENTAL\Documents\Visual Studio 2012\Projects\GeminiScanner\GeminiScanner\obj\Release\GeminiScanner.exe
+C:\Users\Dranor.ELEMENTAL\Documents\Visual Studio 2012\Projects\GeminiScanner\GeminiScanner\obj\Release\GeminiScanner.pdb
+C:\Users\Dranor.ELEMENTAL\Documents\Visual Studio 2012\Projects\GeminiScanner\GeminiScanner\obj\Release\GeminiScanner.csprojResolveAssemblyReference.cache
+C:\Users\Dranor.ELEMENTAL\Documents\WildstarNASA\GeminiIO-Clients\C#\GeminiScanner\GeminiScanner\bin\Release\GeminiScanner.exe.config
+C:\Users\Dranor.ELEMENTAL\Documents\WildstarNASA\GeminiIO-Clients\C#\GeminiScanner\GeminiScanner\obj\Release\GeminiScanner.exe
+C:\Users\Dranor.ELEMENTAL\Documents\WildstarNASA\GeminiIO-Clients\C#\GeminiScanner\GeminiScanner\obj\Release\GeminiScanner.pdb
+C:\Users\Dranor.ELEMENTAL\Documents\WildstarNASA\GeminiIO-Clients\C#\GeminiScanner\GeminiScanner\bin\Release\GeminiScanner.exe
+C:\Users\Dranor.ELEMENTAL\Documents\WildstarNASA\GeminiIO-Clients\C#\GeminiScanner\GeminiScanner\bin\Release\GeminiScanner.pdb
+C:\Users\Dranor.ELEMENTAL\Documents\WildstarNASA\GeminiIO-Clients\C#\GeminiScanner\GeminiScanner\obj\Release\GeminiScanner.csprojResolveAssemblyReference.cache
+C:\Users\Dranor.ELEMENTAL\Documents\WildstarNASA\GeminiIO-Clients\C#\GeminiScanner\GeminiScanner\obj\Release\GeminiScanner.GeminiScanner.resources
+C:\Users\Dranor.ELEMENTAL\Documents\WildstarNASA\GeminiIO-Clients\C#\GeminiScanner\GeminiScanner\obj\Release\GeminiScanner.Properties.Resources.resources
+C:\Users\Dranor.ELEMENTAL\Documents\WildstarNASA\GeminiIO-Clients\C#\GeminiScanner\GeminiScanner\obj\Release\GeminiScanner.csproj.GenerateResource.Cache
